@@ -69,8 +69,8 @@ global.psaweria = 'https://saweria.com/gilzzbotz'
 /*============== NOMOR ==============*/
 global.nomorbot = '6281357580863'
 global.nomorown = '6285730794089'
-global.namebot = 'Gilzz-V1'
-global.nameown = 'GILZZ DEV'
+global.namebot = '𝐆𝐢𝐥𝐳𝐳 - 𝐌𝐃'
+global.nameown = 'G̷̨͖͍̭̞̳̟̬̈́̅͂͜i̸͓͚͔̤̜̺̭͚̣̍̏ͅl̸̟̬̭̦̻͓̣̺̆͑̿̇̊͌͠z̷̪̜̋z̵̬͗͒̀̿̃̐̈̀̽̌ ̷͚̖͑̏̆t̷̢̪̫̮͗̆͗͌̋c̵̼̤̲͓̯̪̱͙͎̝͗̔̔̇h̸͓̼̲̥͔̜̖͖͍͗̓̾̄̔̿̌̚͝'
 
 /*============== Github Thanks To ==============*/
 global.namagithub = 'gilzzbotz' // nama github lu
@@ -85,7 +85,7 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285730794089', 'Gilzz XD', true],
+  ['6285730794089', 'G̷̨͖͍̭̞̳̟̬̈́̅͂͜i̸͓͚͔̤̜̺̭͚̣̍̏ͅl̸̟̬̭̦̻͓̣̺̆͑̿̇̊͌͠z̷̪̜̋z̵̬͗͒̀̿̃̐̈̀̽̌ ̷͚̖͑̏̆t̷̢̪̫̮͗̆͗͌̋c̵̼̤̲͓̯̪̱͙͎̝͗̔̔̇h̸͓̼̲̥͔̜̖͖͍͗̓̾̄̔̿̌̚͝', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -138,12 +138,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 GILZZ XD 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘GILZZ XD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '                「G̷̨͖͍̭̞̳̟̬̈́̅͂͜i̸͓͚͔̤̜̺̭͚̣̍̏ͅl̸̟̬̭̦̻͓̣̺̆͑̿̇̊͌͠z̷̪̜̋z̵̬͗͒̀̿̃̐̈̀̽̌ ̷͚̖͑̏̆t̷̢̪̫̮͗̆͗͌̋c̵̼̤̲͓̯̪̱͙͎̝͗̔̔̇h̸͓̼̲̥͔̜̖͖͍͗̓̾̄̔̿̌̚͝」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘G̷̨͖͍̭̞̳̟̬̈́̅͂͜i̸͓͚͔̤̜̺̭͚̣̍̏ͅl̸̟̬̭̦̻͓̣̺̆͑̿̇̊͌͠z̷̪̜̋z̵̬͗͒̀̿̃̐̈̀̽̌ ̷͚̖͑̏̆t̷̢̪̫̮͗̆͗͌̋c̵̼̤̲͓̯̪̱͙͎̝͗̔̔̇h̸͓̼̲̥͔̜̖͖͍͗̓̾̄̔̿̌̚͝ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ GILZZ - V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By GILZZ-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By G̷̨͖͍̭̞̳̟̬̈́̅͂͜i̸͓͚͔̤̜̺̭͚̣̍̏ͅl̸̟̬̭̦̻͓̣̺̆͑̿̇̊͌͠z̷̪̜̋z̵̬͗͒̀̿̃̐̈̀̽̌ ̷͚̖͑̏̆t̷̢̪̫̮͗̆͗͌̋c̵̼̤̲͓̯̪̱͙͎̝͗̔̔̇h̸͓̼̲̥͔̜̖͖͍͗̓̾̄̔̿̌̚͝`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
 global.author = '                「 GILZZ XD  あ」'
 
